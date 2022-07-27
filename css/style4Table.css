@@ -1,0 +1,26 @@
+
+body
+{
+	background-color:#d4e3e5; /* 跟 tr 的 一样 */
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 auto;   /* 让表格 整体居中 */
+	/* border-spacing: 0 */
+}
+
+td,th {
+	border-color: #a9c6c9;
+	border:1px solid #000;
+	padding: 1em;
+	font-size: 1.5em;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	font-size: 1.5em;
+}

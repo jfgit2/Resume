@@ -1,0 +1,55 @@
+
+body
+{
+	background-color:#d4e3e5; /* 跟 tr 的 一样 */
+}
+
+table { margin: 0 auto; } /* 让表格 整体居中 */
+
+th
+{
+	background-color:green;
+	color:white;
+}
+
+tr {
+	background-color:#d4e3e5;
+}
+
+td {
+	border-color: #a9c6c9;
+}
+
+.hoverColor:hover {
+	background-color:#ffff66;
+}
+
+input:focus, textarea:focus {
+	background-color:#ffff66;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+li {
+	font-size: 1.5em;
+}
+
+.position-right-div {
+	padding: 0px 50px; /* */
+	font-size: 1.5em;
+	font-weight: bold;
+	float: right;
+}
+
+/*
+.position-left-div {
+	padding: 20px 50px;
+	float: left;
+}
+*/
